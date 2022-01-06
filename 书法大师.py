@@ -84,7 +84,7 @@ def SaveGif():
     messagebox.showinfo('保存结果','保存成功！')
 
 def ShowInfo():
-    messagebox.showinfo('作者信息','学校：云南大学附属中学\n班级：初一（1）班\n姓名：周洋光')
+    messagebox.showinfo('作者','YangguangZhou \n https://jzhome.vercel.app/')
 
 win=Tk()
 win.title('书法大师')
